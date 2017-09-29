@@ -286,3 +286,49 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+# =============== #
+# Unity folders #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+3rdParty/
+Builds/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ===================================== #
+# Unity generated #
+# ===================================== #
+*.pidb.meta
+sysinfo.txt
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Assets/Models/arrows/arrow1.obj.meta
+Assets/Models/arrows/arrow2.obj.meta
+Assets/Models/arrows/arrow3.obj.meta
+Assets/Models/arrows/arrow4.obj.meta
+
